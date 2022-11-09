@@ -1,5 +1,5 @@
 {
-    "name": "genxoft/yii2-oas3",
+    "name": "kv4nt/yii2-oas3",
     "description": "Yii2 Open Api Swagger 3 integration",
     "keywords": ["open-api","swagger","rest", "restfull", "json", "yii2"],
     "type": "library",
@@ -35,7 +35,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "genxoft\\swagger\\": "src/"
+            "kv4nt\\swagger\\": "src/"
         }
     },
     "minimum-stability": "stable"
